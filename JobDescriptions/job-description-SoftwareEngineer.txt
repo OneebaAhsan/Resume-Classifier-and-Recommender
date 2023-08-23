@@ -1,0 +1,29 @@
+Job Description
+
+Software Engineer at Systems Limited performs complex software engineering tasks of multi-tenant enterprise grade solutions. Our SE participates in the entire software development life cycle including FS analysis, design, architecture, coding and documentation while maintaining the highest levels of quality and engineering excellence.
+
+Our SE also coordinates with other departments to ensure the quality, accuracy and on-time completion of multiple complex projects.
+
+Responsibilities:
+
+Deliver highly reliable production ready code, by following best practices and coding standards.
+Enhancing framework architecture, design and hands-on code review activities.
+Architecture and redesign code for maintainability, scalability, security and efficiency.
+Intuitively resolve complex design and architecture issues.
+Provide technical expertise.
+Help grow team knowledge in advanced engineering methodologies and standards, cutting edge technologies and industry best practices.
+Ensuring timely completion of tasks with top quality output with an enthusiastic approach.
+Requirements:
+
+BSCS or equivalent
+Fresh graduate to 3 years of experience in any of the following areas:
+OOP, Databases, Web Services & API based communication
+.Net & MSFT Cloud
+Angular & Node JS
+Java
+JavaScript, JQuery, Bootstrap, HTML5, CSS3
+AI/ML/Data Sciences/Business Intelligence
+UX/UI
+ERP and CRM
+Excellent analytical, communication and problem-solving skills.
+Hardworking, passionate, energetic, organized, polished and sharp.

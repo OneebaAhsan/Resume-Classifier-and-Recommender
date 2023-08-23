@@ -1,0 +1,43 @@
+Expertise â Data and Quantitative Analysis â Decision Analytics â Predictive Modeling â Data-Driven Personalization â KPI Dashboards â Big Data Queries and Interpretation â Data Mining and Visualization Tools â Machine Learning Algorithms â Business Intelligence (BI) â Research, Reports and Forecasts Education Details 
+ PGP in Data Science  Mumbai, Maharashtra Aegis School of data science & Business
+ B.E. in Electronics & Communication Electronics & Communication Indore, Madhya Pradesh IES IPS Academy
+Data Scientist 
+
+Data Scientist with PR Canada
+Skill Details 
+Algorithms- Exprience - 6 months
+BI- Exprience - 6 months
+Business Intelligence- Exprience - 6 months
+Machine Learning- Exprience - 24 months
+Visualization- Exprience - 24 months
+spark- Exprience - 24 months
+python- Exprience - 36 months
+tableau- Exprience - 36 months
+Data Analysis- Exprience - 24 monthsCompany Details 
+company - Aegis school of Data Science & Business
+description - Mostly working on industry project for providing solution along with Teaching Appointments: Teach undergraduate and graduate-level courses in Spark and Machine Learning as an adjunct faculty member at Aegis School of Data Science, Mumbai (2017 to Present)
+company - Aegis school of Data & Business
+description - Data Science Intern, Nov 2015 to Jan 2016
+
+Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines.
+
+â Chat Bot using AWS LEX and Tensor flow  Python
+The goal of project creates a chat bot for an academic institution or university to handle queries related courses offered by that institute. The objective of this task is to reduce human efforts as well as reduce man made errors. Even by this companies handle their client 24x7. In this case companies are academic institutions and clients are participants or students.
+â Web scraping using Selenium web driver   Python
+The task is to scrap the data from the online messaging portal in a text format and have to find the pattern form it.
+â Data Visualization and Data insights   Hadoop Eco System, Hive, PySpark, QlikSense
+The goal of this project is to build a Business Solutions to a Internet Service Provider Company, like handling data which is generated per day basis, for that we have to visualize that data and find the usage pattern form it and have a generate a reports.
+â Image Based Fraud Detection   Microsoft Face API, PySpark, Open CV
+The main goal of project is Recognize similarity for a face to given Database images. Face recognition is the recognizing a special face from set of different faces. Face is extracted and then compared with the database Image if that Image recognized then the person already applied for loan from somewhere else and now hiding his or her identity, this is how we are going to prevent the frauds in the initial stage itself.
+â Churn Analysis for Internet Service Provider   R, Python, Machine Learning, Hadoop
+The objective is to identify the customer who is likely to churn in a given period of time; we have to pretend the customer giving incentive offers.
+â Sentiment Analysis   Python, NLP, Apache Spark service in IBM Bluemix.
+This project is highly emphasis on tweets from Twitter data were taken for mobile networks service provider to do a sentiment analysis and analyze whether the expressed opinion was positive, negative or neutral, capture the emotions of the tweets and comparative analysis.
+
+Quantifiable Results:
+â Mentored 7-12 Data Science Enthusiast each year that have all since gone on to graduate school in Data Science and Business Analytics.
+â Reviewed and evaluated 20-40 Research Papers on Data Science for one of the largest Data Science Conference called Data Science Congress by Aegis School of Business Mumbai.
+â Heading a solution providing organization called Data Science Delivered into Aegis school of Data Science Mumbai and managed 4-5 live projects using Data Science techniques.
+â Working for some social cause with the help of Data Science for Social Goods Committee, where our team developed a product called "Let's find a missing Child" for helping society.
+company - IBM India pvt ltd
+description - Mostly worked on blumix and IBM Watson for Data science.

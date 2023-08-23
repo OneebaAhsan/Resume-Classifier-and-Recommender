@@ -1,0 +1,31 @@
+Job Description
+
+Data Scientists at Systems Limited leverage predictive analytics and business intelligence to improve the operational capabilities as well as develop new products and services for the clients. Data Scientists drive all phases of data aggregation, model development, and model deployment to support internal operations, financial pricing and profitability, and client-facing analytics and data products. They are responsible for analyzing complex, large-scale datasets utilizing statistical methods and machine learning algorithms to develop predictive models and business intelligence solutions.
+
+Responsibilities:
+
+Perform data analyses on and discover new uses for existing data sources.
+Develop and evaluate the performance of predictive statistical models and selecting features, building and optimizing classifiers using machine learning techniques.
+Data mining using state-of-the-art methods.
+Create and interpret strategic and operational analyses, assess options objectively, and present conclusions and recommendations to all levels of management.
+Develop subject matter expertise on source systems data and metadata.
+Extending company’s data with third party sources of information when needed.
+Enhancing data collection procedures to include information that is relevant for building analytic systems.
+Processing, cleansing, and verifying the integrity of data used for analysis.
+Doing ad-hoc analysis and presenting results in a clear manner.
+Creating automated anomaly detection systems and constant tracking of its performance.
+Partner with management and business units on innovative ways to successfully utilize data and related tools to advance business objectives and develop new products and services.
+Gain and master a comprehensive understanding of operations, processes, and business objectives and utilize that knowledge for data analysis and business insight.
+ 
+
+Requirements:
+
+BSCS or equivalent; Masters in Data Sciences is preferred.
+Understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+Experience with common data science toolkits, such as R, NumPy, MatLab, Scikit Learn, excellence in at least one of these is highly desirable.
+Experience with data visualization tools, such as D3.js, GGplot, etc.
+Proficiency in using query languages such as SQL, Hive etc
+Applied statistical skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills.
+Data-oriented approach.
+Excellent analytical, communication and problem-solving skills.

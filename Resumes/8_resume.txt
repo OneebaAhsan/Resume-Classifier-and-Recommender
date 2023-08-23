@@ -1,0 +1,119 @@
+Skills â¢ R â¢ Python â¢ SAP HANA â¢ Tableau â¢ SAP HANA SQL â¢ SAP HANA PAL â¢ MS SQL â¢ SAP Lumira â¢ C# â¢ Linear Programming â¢ Data Modelling â¢ Advance Analytics â¢ SCM Analytics â¢ Retail Analytics â¢Social Media Analytics â¢ NLP Education Details 
+January 2017 to January 2018 PGDM Business Analytics  Great Lakes Institute of Management & Illinois Institute of Technology
+January 2013 Bachelor of Engineering Electronics and Communication Bengaluru, Karnataka New Horizon College of Engineering, Bangalore Visvesvaraya Technological University
+Data Science Consultant 
+
+Consultant - Deloitte USI
+Skill Details 
+LINEAR PROGRAMMING- Exprience - 6 months
+RETAIL- Exprience - 6 months
+RETAIL MARKETING- Exprience - 6 months
+SCM- Exprience - 6 months
+SQL- Exprience - Less than 1 year months
+Deep Learning- Exprience - Less than 1 year months
+Machine learning- Exprience - Less than 1 year months
+Python- Exprience - Less than 1 year months
+R- Exprience - Less than 1 year monthsCompany Details 
+company - Deloitte USI
+description - The project involved analysing historic deals and coming with insights to optimize future deals.
+Role: Was given raw data, carried out end to end analysis and presented insights to client.
+Key Responsibilities:
+â¢ Extract data from client systems across geographies.
+â¢ Understand and build reports in tableau. Infer meaningful insights to optimize prices and find out process blockades.
+Technical Environment: R, Tableau.
+
+Industry: Cross Industry
+Service Area: Cross Industry - Products
+Project Name: Handwriting recognition
+Consultant: 3 months.
+The project involved taking handwritten images and converting them to digital text images by object detection and sentence creation.
+Role: I was developing sentence correction functionality.
+Key Responsibilities:
+â¢ Gather data large enough to capture all English words
+â¢ Train LSTM models on words.
+Technical Environment: Python.
+
+Industry: Finance
+Service Area: Financial Services - BI development Project Name: SWIFT
+Consultant: 8 months.
+The project was to develop an analytics infrastructure on top of SAP S/4, it would user to view
+financial reports to respective departments. Reporting also included forecasting expenses.
+Role: I was leading the offshore team.
+Key Responsibilities:
+â¢ Design & Develop data models for reporting.
+â¢ Develop ETL for data flow
+â¢ Validate various reports.
+Technical Environment: SAP HANA, Tableau, SAP AO.
+
+Industry: Healthcare Analytics
+Service Area: Life Sciences - Product development Project Name: Clinical Healthcare System
+Consultant: 2 months.
+The project was to develop an analytics infrastructure on top of Argus, it would allow users to query faster and provide advance analytics capabilities.
+Role: I was involved from design to deploy phase, performed a lot of data restructuring and built
+models for insights.
+Key Responsibilities:
+â¢ Design & Develop data models for reporting.
+â¢ Develop and deploy analytical models.
+â¢ Validate various reports.
+Technical Environment: Data Modelling, SAP HANA, Tableau, NLP.
+
+Industry: FMCG
+Service Area: Trade & Promotion
+Project Name: Consumption Based Planning for Flowers Foods Consultant; 8 months.
+The project involved setting up of CRM and CBP modules.
+Role: I was involved in key data decomposition activities and setting up the base for future year
+forecast. Over the course of the project I developed various models and carried out key
+performance improvements.
+Key Responsibilities:
+â¢ Design & Develop HANA models for decomposition.
+â¢ Develop data flow for forecast.
+â¢ Developed various views for reporting of Customer/Sales/Funds.
+â¢ Validate various reports in BOBJ.
+Technical Environment: Data Modelling, SAP HANA, BOBJ, Time Series Forecasting.
+
+Internal Initiative Industry: FMCG
+Customer Segmentation and RFM analysis Consultant; 3 months.
+The initiative involved setting up of HANA-Python interface and advance analytics on Python. Over the course I had successfully segmented data into five core segments using K-means and carried out RFM analysis in Python. Also developed algorithm to categorize any new customer under the defined buckets.
+Technical Environment: Anaconda3, Python3.6, HANA SPS12
+
+Industry: Telecom Invoice state detection Consultant; 1 months.
+The initiative was to reduce the manual effort in verifying closed and open invoices manually, it
+involved development to a decision tree to classify open/closed invoices. This enabled effort
+reduction by 60%.
+Technical Environment: R, SAP PAL, SAP HANA SPS12
+
+Accenture Experience
+Industry: Analytics - Cross Industry
+In Process Analytics for SAP Senior Developer; 19 months.
+Accenture Solutions Pvt. Ltd., India
+The project involved development of SAP analytics tool - In Process Analytics (IPA) . My role was to develop database objects and data models to provide operational insights to clients.
+Role: I have developed various Finance related KPIs and spearheaded various deployments.
+Introduced SAP Predictive analytics to reduce development time and reuse functionalities for KPIs and prepared production planning reports.
+Key Responsibilities:
+â¢ Involved in information gather phase.
+â¢ Designed and implemented SAP HANA data modelling using Attribute View, Analytic View, and
+Calculation View.
+â¢ Developed various KPI's individually using complex SQL scripts in Calculation views.
+â¢ Created procedures in HANA Database.
+â¢ Took ownership and developed Dashboard functionality.
+â¢ Involved in building data processing algorithms to be executed in R server for cluster analysis.
+Technical Environment: R, SAP HANA, T-SQL.
+Industry: Cross Industry
+Accenture Testing Accelerator for SAP Database Developer; 21 months.
+Accenture Solutions Pvt. Ltd., India
+Role: I have taken care of all development activities for the ATAS tool and have also completed
+various deployments of the product.
+Apart from these activities I was also actively involved in maintenance of the database servers
+(Production & Quality)
+Key Responsibilities:
+â¢ Analyzing business requirements, understanding the scope, getting requirements clarified
+interacting with business and further transform all requirements to generate attribute
+mapping documents and reviewing mapping specification documentation
+â¢ Create / Update database objects like tables, views, stored procedures, function, and packages
+â¢ Monitored SQL Server Error Logs and Application Logs through SQL Server Agent
+â¢ Prepared Data Flow Diagrams, Entity Relationship Diagrams using UML
+â¢ Responsible for Designing, developing and Normalization of database tables
+â¢ Experience in performance tuning using SQL profiler.
+â¢ Involved in QA, UAT, knowledge transfer and support activities
+Technical Environment: SQL Server 2008/2014, Visual Studio 2010, Windows Server, Performance
+Monitor, SQL Server Profiler, C#, PL-SQL, T-SQL.
